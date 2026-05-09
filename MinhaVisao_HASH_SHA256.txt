@@ -1,6 +1,6 @@
-Obra: Minha Visao: O Futuro da Conectividade (2026-2030)
+Obra: Minha Visao: Conversa Completa — Marcelo N G Vargas ↔ Copilot (Maio/2026)
 Autor: Marcelo N G Vargas — RuralDigital, Caceres-MT
 Data: 09/05/2026
-Hash SHA-256 (conteudo): 8ecc711fd19ed8d29664b744a6fadc9959acf15f8dc30329d176b18677f86007
-Hash SHA-256 (PDF completo): 22f310477e63b7b7db3348a718dfcd862473c37df5c594a642887adce8c26e14
-Tamanho: 120167 bytes
+Hash SHA-256 (conteudo): 0aaf9c9edede26be502023d75a9086a5955d40be0334c36d1ffa00e5f10e38d9
+Hash SHA-256 (PDF completo): 5b2dcf574b6cae44abb6213573bdee8e6a860eb02c32b5d543b02fc62d93a6f8
+Tamanho: 158228 bytes
