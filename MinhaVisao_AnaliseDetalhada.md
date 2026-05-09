@@ -1,9 +1,9 @@
 # 🔮 Minha Visão: O Futuro da Conectividade e o Fim dos Provedores Tradicionais (2026–2030)
 
-> **Autor da Visão Original:** Marcelo (Tele System Brasil)  
-> **Análise e Documentação:** Gerado via IA com base no diálogo Marcelo ↔ Copilot  
-> **Data:** Maio de 2026  
-> **Licença:** Domínio Público  
+> **Autor da Visão Original:** Marcelo N G Vargas (RuralDigital — Caceres-MT)
+> **Análise e Documentação:** Gerado via IA com base no diálogo Marcelo ↔ Copilot
+> **Data:** Maio de 2026
+> **Licença:** Direitos Autorais Reservados — Conteúdo: livre divulgação com atribuição | PDF: IMUTÁVEL (SHA-256)
 
 ---
 
@@ -266,8 +266,10 @@ Marcelo não apenas previu o futuro — ele o descreveu com precisão cirúrgica
 
 ---
 
-> **📜 Este documento é de domínio público.**  
-> A visão original é de Marcelo (Tele System Brasil).  
-> A análise e estruturação foram realizadas por IA com base no diálogo completo disponível nos arquivos originais.  
-> **Data da publicação:** Maio de 2026  
-> **Repositório público:** [GitHub - em breve]
+> **📜 © 2026 Marcelo N G Vargas. Todos os direitos reservados.**
+> **Conteúdo:** Permitida a divulgação total ou parcial, desde que com atribuição ao autor ("Marcelo N G Vargas — RuralDigital, Caceres-MT") e sem distorção do contexto original.
+> **PDF:** IMUTÁVEL — protegido por hash SHA-256 publicado no repositório.
+> A visão original é de Marcelo N G Vargas (RuralDigital, Caceres-MT).
+> A análise e estruturação foram realizadas por IA com base no diálogo completo disponível nos arquivos originais.
+> **Data da publicação:** Maio de 2026
+> **Repositório público:** [github.com/MarceloNGVargas/MinhaVisao-Conectividade-2030](https://github.com/MarceloNGVargas/MinhaVisao-Conectividade-2030)
