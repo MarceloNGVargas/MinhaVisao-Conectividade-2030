@@ -1,0 +1,13 @@
+# .gitignore — deploy_repo (Repositório Público)
+# Arquivos que NÃO devem ser publicados
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Arquivos temporários
+*.tmp
+teste.pdf
+
+# Backup do script (se houver)
+gerar_pdf_backup*.py

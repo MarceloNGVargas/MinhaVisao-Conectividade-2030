@@ -1,31 +1,36 @@
-# 🔮 MinhaVisão: O Futuro da Conectividade (2026–2030)
+# 🔮 Minha Visão: O Futuro da Conectividade (2026–2030)
 
-> **"Em 5 anos, o acesso puro à internet vai virar fumaça."** — Marcelo, Tele System Brasil
+> **"Em 5 anos, o acesso puro à internet vai virar fumaça."** — Marcelo N G Vargas
 
 ---
 
 ## 📖 Sobre Este Repositório
 
-Este repositório contém uma análise profunda sobre o futuro da conectividade no Brasil e no mundo, baseada na visão original de **Marcelo** — proprietário de um provedor de internet via rádio rural e fibra óptica no Brasil.
+Este repositório contém uma análise profunda sobre o futuro da conectividade no Brasil e no mundo, baseada na visão original de **Marcelo N G Vargas** — proprietário da **RuralDigital**, provedor de internet via rádio rural e fibra óptica em **Caceres-MT**.
 
-A documentação aqui publicada é de **domínio público** e tem como objetivo:
+A documentação aqui publicada tem como objetivo:
 
 - Registrar uma visão estratégica sobre a disrupção do mercado de telecomunicações
 - Analisar as três forças que estão esmagando o modelo tradicional de provedores
 - Traçar a linha do tempo 2026–2030 da conectividade
 - Servir como referência histórica e estratégica para o setor
+- **Provar, no futuro, que esta visão foi publicada em Maio de 2026** (PDF imutável com hash SHA-256)
 
 ---
 
 ## 📂 Estrutura do Repositório
 
 ```
-├── README.md                              ← Este arquivo
-├── MinhaVisao_AnaliseDetalhada.md         ← Documento principal com análise completa
-├── originais/
-│   ├── MinhaVisao_Ate2030.txt             ← Diálogo original Marcelo ↔ Copilot (completo)
-│   └── Satelital.txt                      ← Resumo da linha do tempo 2026–2030
-└── LICENSE                                ← Domínio Público (CC0)
+├── README.md                                          ← Este arquivo
+├── index.html                                         ← Página web pública (GitHub Pages)
+├── MinhaVisao_Marcelo_N_G_Vargas_2026.pdf             ← PDF CANÔNICO IMUTÁVEL
+├── MinhaVisao_HASH_SHA256.txt                         ← Hash criptográfico do PDF
+├── MinhaVisao_AnaliseDetalhada.md                     ← Análise completa em Markdown
+├── LICENSE.txt                                        ← Licença de uso (direitos autorais)
+├── gerar_pdf.py                                       ← Script gerador do PDF
+└── originais/
+    ├── MinhaVisao_Ate2030.txt                         ← Diálogo original Marcelo ↔ Copilot (completo)
+    └── Satelital.txt                                  ← Resumo da linha do tempo 2026–2030
 ```
 
 ---
@@ -77,18 +82,46 @@ Se você é um **micro, pequeno ou médio provedor de internet**, este documento
 
 ## 📜 Licença
 
-Este trabalho é dedicado ao **Domínio Público** sob a licença [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
+### Conteúdo (texto, ideias, análise)
+✅ **PERMITIDO**: divulgar, compartilhar, citar e mencionar total ou parcialmente em qualquer meio, **desde que**:
+- Seja mantida a atribuição ao autor: **"Marcelo N G Vargas — RuralDigital, Caceres-MT"**
+- O contexto original da obra NÃO seja distorcido
 
-Você pode copiar, modificar, distribuir e executar este trabalho, mesmo para fins comerciais, tudo sem pedir autorização.
+### PDF Original
+🔒 **IMUTÁVEL** — Protegido por direitos morais do autor (Lei nº 9.610/98, Art. 24).  
+A integridade é comprovada por hash criptográfico **SHA-256** publicado neste repositório.  
+Qualquer PDF que não corresponda ao hash oficial **NÃO** representa a visão autêntica do autor.
+
+Para detalhes completos, veja o arquivo [LICENSE.txt](LICENSE.txt).
 
 ---
 
-## 👤 Autor da Visão Original
+## 🔐 Hash SHA-256 do PDF Original
 
-**Marcelo** — Proprietário, Tele System Brasil  
+> Consulte o arquivo [MinhaVisao_HASH_SHA256.txt](MinhaVisao_HASH_SHA256.txt) para o hash completo.
+
+---
+
+## 👤 Autor
+
+**Marcelo N G Vargas**  
+RuralDigital — Caceres-MT, Brasil  
 Provedor de internet via rádio rural e fibra óptica  
-Brasil, 2026
+Maio de 2026
+
+---
+
+## 🌐 Página Web
+
+A versão web deste documento está disponível em:
+👉 **[GitHub Pages](https://[seu-usuario].github.io/[repositorio]/)** (após deploy)
+
+Ou abra localmente: [index.html](index.html)
 
 ---
 
 > *"O provedor que só vende acesso vai desaparecer. Mas quem pivotar para ser integrador de ecossistemas digitais pode não só sobreviver, como prosperar."*
+
+---
+
+© 2026 **Marcelo N G Vargas** — RuralDigital, Caceres-MT. Todos os direitos reservados.

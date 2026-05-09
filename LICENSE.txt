@@ -1,0 +1,90 @@
+======================================================================
+           DIREITOS AUTORAIS — LICENÇA DE USO
+              © 2026 Marcelo N G Vargas
+======================================================================
+
+Obra:    "Minha Visão: O Futuro da Conectividade e o Fim dos
+          Provedores Tradicionais (2026–2030)"
+
+Autor:   Marcelo N G Vargas
+         RuralDigital - Caceres-MT
+         Brasil
+
+Data:    Maio de 2026
+
+======================================================================
+1. TERMOS GERAIS DE USO
+======================================================================
+
+PERMITIDO (sem necessidade de autorização prévia):
+
+  ✔  Divulgar e compartilhar esta obra, total ou parcialmente,
+     em qualquer meio físico ou digital.
+
+  ✔  Mencionar, citar e referenciar o conteúdo em artigos,
+     matérias, redes sociais, pesquisas, vídeos, podcasts,
+     palestras e afins.
+
+  ✔  Utilizar trechos como referência, desde que dentro do
+     contexto original da obra e SEM distorcer seu significado.
+
+  ✔  Incluir em matérias jornalísticas e análises de mercado.
+
+CONDIÇÕES OBRIGATÓRIAS para todo uso permitido:
+
+  ⚠  Manter os créditos: "Marcelo N G Vargas — RuralDigital,
+     Caceres-MT, Brasil, Maio de 2026".
+
+  ⚠  NÃO distorcer, descontextualizar ou alterar o sentido
+     original da obra ao citá-la.
+
+  ⚠  Sempre que possível, incluir link para o repositório
+     público oficial com o PDF imutável.
+
+PROIBIDO (salvo autorização expressa e por escrito):
+
+  ✘  Modificar a obra original e redistribuí-la como se fosse
+     a versão autêntica do autor.
+
+  ✘  Usar o conteúdo para fins ilegais, difamatórios ou que
+     violem direitos de terceiros.
+
+  ✘  Atribuir a autoria a terceiros (plágio).
+
+======================================================================
+2. IMUTABILIDADE DO PDF ORIGINAL
+======================================================================
+
+O arquivo PDF intitulado:
+
+  "MinhaVisao_Marcelo_N_G_Vargas_2026.pdf"
+
+é a VERSÃO CANÔNICA E IMUTÁVEL desta obra.
+
+A integridade do PDF é protegida por:
+
+  • Lei de Direitos Autorais (Lei nº 9.610/98, Art. 24 — Direitos Morais)
+  • Hash criptográfico SHA-256 publicado neste repositório
+
+Qualquer PDF que NÃO corresponda ao hash oficial NÃO representa
+a visão autêntica do autor. O PDF original serve como registro
+histórico para comprovação futura da previsão aqui contida.
+
+======================================================================
+3. IDENTIFICAÇÃO CRIPTOGRÁFICA
+======================================================================
+
+Hash SHA-256 do PDF original:
+  [GERADO NO MOMENTO DA PUBLICAÇÃO]
+
+======================================================================
+4. CONTATO
+======================================================================
+
+  Autor:    Marcelo N G Vargas
+  Empresa:  RuralDigital
+  Cidade:   Caceres - MT, Brasil
+
+======================================================================
+          © 2026 Marcelo N G Vargas. Todos os direitos reservados.
+======================================================================
